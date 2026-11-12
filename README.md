@@ -18,6 +18,7 @@ I work on web projects and data tools for short-drama content platforms — stru
 
 ### 🎯 Current Focus
 
+- 🧹 **Latest project — [MetaStrip](https://github.com/WeakCoderAsh/metastrip):** removes metadata from AI images in one clean pass.
 - Building a fresh portfolio of projects, released here step by step
 - Structured data systems for short-drama content
 
