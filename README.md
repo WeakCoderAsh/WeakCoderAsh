@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Ashh 👋
 
-<!--
-**WeakCoderAsh/WeakCoderAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building clean, practical web projects — one commit at a time.
 
-Here are some ideas to get you started:
+### About
+I work on web projects and data tools for short-drama content platforms — structured catalogues, publishing workflows, and automation that makes content operations faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- 🌐 Web projects — clean, practical builds
+- 🗂️ Data & catalogues — structured JSON datasets for content platforms
+- ⚙️ Automation — workflows that speed up publishing
+
+### Current focus
+- Building a fresh portfolio of projects, released here step by step
+- Structured data systems for short-drama content
+
+### Get in touch
+- Open an issue or a discussion on any repository — that's the fastest way to reach me.
+
+---
+📍 India · Open to collaboration
