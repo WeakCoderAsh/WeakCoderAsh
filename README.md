@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Ashh 👋</h1>
 
+
 <p align="center"><em>Building clean, practical web projects — one commit at a time.</em></p>
 
 ---
@@ -18,7 +19,7 @@ I work on web projects and data tools for short-drama content platforms — stru
 
 ### 🎯 Current Focus
 
-- 🧹 **Latest project — [MetaStrip](https://github.com/WeakCoderAsh/metastrip):** removes metadata from AI images in one clean pass.
+- 🧹 **Latest project — [TagHatao](https://github.com/WeakCoderAsh/taghatao):** India's AI tag remover — clean photos in one pass.
 - Building a fresh portfolio of projects, released here step by step
 - Structured data systems for short-drama content
 
